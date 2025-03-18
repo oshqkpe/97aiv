@@ -1,8 +1,0 @@
-site_name: 97av-97av蜜桃网免费视频
-theme:
-  name: mkdocs
-nav:
-  - Home: index.md
-  - Guide: guide.md
-  - FAQ: faq.md
-  - Contact: contact.md
